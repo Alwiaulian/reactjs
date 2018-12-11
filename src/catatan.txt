@@ -1,0 +1,7 @@
+/create-react-app nama_projek
+
+1.main di app.js
+    -buat concructor
+ngejalanin nya pakejalan
+yarn start
+refs->refernsi
